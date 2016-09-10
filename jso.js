@@ -19,9 +19,9 @@ define(function(require, exports, module) {
 			}
 		};
 
-	var store = require('./store');
-	var utils = require('./utils');
-	var Config = require('./Config');
+	var store  = require('https://cdn.rawgit.com/WammKD/jso/master/store.js');
+	var utils  = require('https://cdn.rawgit.com/WammKD/jso/master/utils.js');
+	var Config = require('https://cdn.rawgit.com/WammKD/jso/master/Config.js');
 
 
 

@@ -2,7 +2,7 @@
 
 define(function(require, exports, module) {
 
-	var utils = require('./utils');
+	var utils = require('https://cdn.rawgit.com/WammKD/jso/master/utils.js');
 	var store = {};
 
 
